@@ -1,0 +1,73 @@
+body{
+	margin: 0;
+}
+.add-products
+{
+  width: 800px;
+  height: 590px;
+  background-color: #222;
+  color: white;
+  margin-left: 400px;
+  margin-top: 80px;
+  border-radius: 0px 80px 0px 80px;
+}
+.form-controls
+{
+	margin-left: 80px;
+	padding-top:20px;
+
+}
+label
+{
+	font-size: 18px;
+	font-family: Arial;
+
+}
+span
+{
+    font-size: 18px;
+	font-family: Arial;
+	
+}
+.input
+{
+	width: 300px;
+	height: 40px;
+	padding-top: 12px;
+	border-radius: 10px;
+	margin-top: 20px;
+	border: none;
+	outline: none;
+	text-indent: 30px;
+}
+.textarea
+{
+	width: 300px;
+	height: 80px;
+	padding-top: 12px;
+	border-radius: 10px;
+	margin-top: 20px;
+	border: none;
+	outline: none;
+	text-indent: 30px;
+}
+#go
+{
+	width: 200px;
+	height: 40px;
+	margin-left: 200px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	font-size: 16px;
+	text-transform: uppercase;
+	cursor: pointer;
+	border: none;
+	border-radius: 10px;
+}
+#go:hover
+{
+	background:orchid;
+}
+
+
+

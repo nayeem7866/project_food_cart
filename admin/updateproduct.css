@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+}
+.update-products
+{
+  width: 800px;
+  height: 580px;
+  background-color: whitesmoke;
+  color: white;
+  margin-left: 450px;
+  margin-top: 80px;
+  border-radius: 50px 80px 50px 80px;
+}
+.form-controls
+{
+	margin-left: 80px;
+	padding-top:20px;
+}
+.input
+{
+	width: 310px;
+	height: 40px;
+	padding-top: 12px;
+	border-radius: 10px;
+	margin-top: 50px;
+	border: none;
+	outline: none;	
+	text-indent: 30px;
+	border-style: dashed;
+	margin-left: 15px;
+}
+.image
+{
+	width: 260px;
+	height: 40px;
+	padding-top: 12px;
+	border-radius: 10px;
+	margin-top: 40px;
+	border: none;
+	outline: none;
+	text-indent: 30px;
+	border-style: dashed;
+	margin-left: 240px;	
+}
+#go
+{
+	width: 600px;
+	height: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	font-size: 16px;
+	text-transform: uppercase;
+	cursor: pointer;
+	color:black;
+	border:none;
+}
+#go:hover
+{
+	background:sandybrown ;
+}
+
+
+
